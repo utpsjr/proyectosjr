@@ -489,3 +489,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 14:44:38.406] [Server thread/INFO] [tombstone/]: The player Sung_Jinwoo has successfully been saved
 [02May2025 14:44:43.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Applied effect Saturation to Sung_Jinwoo]
 [02May2025 14:44:56.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Applied effect Saturation to Sung_Jinwoo]
+[02May2025 14:47:14.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [Knowledge of Death]
+[02May2025 14:47:14.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [Ashes 'n Bones]
+[02May2025 14:48:31.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [Knowledge raises the soul]
+[02May2025 14:50:31.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [Sweet Dreams]
+[02May2025 14:51:07.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[02May2025 14:51:17.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[02May2025 14:51:35.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[02May2025 14:51:58.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]

@@ -224,9 +224,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-05-02 14:24:57 +0000",
+      "minecraft:sunflower_plains": "2025-05-02 14:47:50 +0000",
+      "minecraft:beach": "2025-05-02 14:46:40 +0000",
       "minecraft:river": "2025-05-02 14:35:06 +0000",
       "minecraft:snowy_plains": "2025-05-02 14:25:00 +0000",
       "minecraft:snowy_taiga": "2025-05-02 03:47:32 +0000",
+      "minecraft:flower_forest": "2025-05-02 14:42:18 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-02 14:28:02 +0000",
       "minecraft:plains": "2025-05-02 14:32:08 +0000"
     },
@@ -274,9 +277,17 @@
       "highland": "2025-05-02 14:29:45 +0000",
       "aspen_glade": "2025-05-02 14:28:38 +0000",
       "seasonal_forest": "2025-05-02 14:31:53 +0000",
+      "pasture": "2025-05-02 14:43:34 +0000",
+      "lavender_field": "2025-05-02 14:47:43 +0000",
       "tundra": "2025-05-02 14:27:26 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-02 14:50:31 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -286,8 +297,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-02 14:44:38 +0000",
       "minecraft:spider": "2025-05-02 14:23:51 +0000",
-      "minecraft:zombie": "2025-05-02 14:24:48 +0000"
+      "minecraft:creeper": "2025-05-02 14:47:33 +0000",
+      "minecraft:zombie": "2025-05-02 14:24:48 +0000",
+      "minecraft:drowned": "2025-05-02 14:49:27 +0000"
     },
     "done": false
   },
@@ -303,9 +317,23 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 14:44:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-02 14:44:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-05-02 14:33:40 +0000"
+      "cooked_porkchop": "2025-05-02 14:33:40 +0000",
+      "cooked_mutton": "2025-05-02 14:47:17 +0000",
+      "cooked_beef": "2025-05-02 14:46:27 +0000"
     },
     "done": false
   },
@@ -316,9 +344,33 @@
     },
     "done": false
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 14:47:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 14:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-05-02 14:51:19 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "muskeg": "2025-05-02 14:25:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 14:48:31 +0000"
     },
     "done": true
   },
