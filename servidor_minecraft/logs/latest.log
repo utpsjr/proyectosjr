@@ -497,3 +497,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02May2025 14:51:17.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
 [02May2025 14:51:35.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
 [02May2025 14:51:58.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[02May2025 14:57:39.084] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[02May2025 14:57:39.095] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[02May2025 14:57:39.097] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[02May2025 14:57:39.100] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[02May2025 15:02:08.493] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02May2025 15:02:08.496] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[02May2025 15:03:02.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[02May2025 15:03:53.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
