@@ -224,11 +224,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-05-02 18:48:20 +0000",
+      "minecraft:sunflower_plains": "2025-05-02 19:06:23 +0000",
+      "minecraft:river": "2025-05-02 19:03:08 +0000",
       "minecraft:snowy_taiga": "2025-05-02 03:53:08 +0000",
       "minecraft:frozen_ocean": "2025-05-02 18:49:38 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-02 18:50:56 +0000",
       "minecraft:windswept_forest": "2025-05-02 18:52:08 +0000",
-      "minecraft:snowy_beach": "2025-05-02 18:49:34 +0000"
+      "minecraft:snowy_beach": "2025-05-02 18:49:34 +0000",
+      "minecraft:flower_forest": "2025-05-02 19:07:49 +0000",
+      "minecraft:plains": "2025-05-02 19:06:05 +0000"
     },
     "done": false
   },
@@ -276,6 +280,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-05-02 19:03:09 +0000",
       "minecraft:zombie": "2025-05-02 04:02:26 +0000"
     },
     "done": false
@@ -306,7 +311,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "jacaranda_glade": "2025-05-02 19:03:18 +0000",
       "orchard": "2025-05-02 18:52:14 +0000",
+      "lavender_field": "2025-05-02 19:05:16 +0000",
       "snowy_coniferous_forest": "2025-05-02 18:50:18 +0000",
       "snowy_fir_clearing": "2025-05-02 18:51:53 +0000",
       "snowy_maple_woods": "2025-05-02 18:51:47 +0000"
@@ -348,6 +355,32 @@
       "minecraft:soul_sand_valley": "2025-05-02 18:54:24 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-05-02 19:01:30 +0000",
+      "cooked_cod": "2025-05-02 19:05:16 +0000",
+      "rotten_flesh": "2025-05-02 19:03:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-05-02 19:08:21 +0000"
+    },
+    "done": false
+  },
+  "simplefarming:berries": {
+    "criteria": {
+      "strawberries": "2025-05-02 19:07:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-02 19:08:21 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

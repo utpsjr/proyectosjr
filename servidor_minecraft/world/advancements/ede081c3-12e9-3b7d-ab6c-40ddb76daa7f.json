@@ -223,7 +223,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_taiga": "2025-05-02 18:46:50 +0000"
+      "minecraft:sunflower_plains": "2025-05-02 19:06:04 +0000",
+      "minecraft:river": "2025-05-02 19:04:46 +0000",
+      "minecraft:snowy_taiga": "2025-05-02 18:46:50 +0000",
+      "minecraft:flower_forest": "2025-05-02 19:10:31 +0000",
+      "minecraft:plains": "2025-05-02 19:06:03 +0000"
     },
     "done": false
   },
@@ -304,6 +308,14 @@
       "get_stone": "2025-05-02 18:54:29 +0000"
     },
     "done": true
+  },
+  "simplefarming:berries": {
+    "criteria": {
+      "blueberries": "2025-05-02 19:04:10 +0000",
+      "strawberries": "2025-05-02 19:04:28 +0000",
+      "raspberries": "2025-05-02 19:05:23 +0000"
+    },
+    "done": false
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
